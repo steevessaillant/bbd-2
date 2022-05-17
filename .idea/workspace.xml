@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="761d4f6d-fc31-411a-b0d1-93a998af2547" name="Changes" comment="improve assert thrown">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\SteevesSaillant\source\github\bdd-exercice-1\target" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="coverage" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="28buRMvOQFbHO2yMYmJmExgLaXz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;LombokPluginIS_LOMBOK_JPS_FIX_ENABLED&quot;: &quot;true&quot;,
+    &quot;LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/SteevesSaillant/source/github/bdd-exercice-1/src/test/java/org/example&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SteevesSaillant/source/github/bdd-exercice-1/target/IntelliJ-Cov-Output&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;coverage&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SteevesSaillant\source\github\bdd-exercice-1\src\it" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest">
+    <configuration name="Feature: SimpleFeature (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/it/resources/SimpleFeature.feature" />
+      <option name="GLUE" value="org.example.StepsDefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="bdd-exercice-1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: SimpleFeature" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: SimpleFeature" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.15.10-hotspot" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/SimpleFeature.feature" />
+      <option name="GLUE" value="org.example.StepDefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="bdd-exercice-1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <shortenClasspath name="NONE" />
+      <option name="SUGGESTED_NAME" value="Feature: SimpleFeature" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: SimpleFeature" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <envs>
+        <env name="CUCUMBER_PUBLISH_TOKEN" value="643a98b2-057c-4fab-ad07-92a3613172c1" />
+      </envs>
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/it/resources/SimpleFeature.feature" />
+      <option name="GLUE" value="org.example.StepsDefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="bdd-exercice-1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <shortenClasspath name="NONE" />
+      <option name="SUGGESTED_NAME" value="Feature: SimpleFeature" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bdd-exercice-1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.appLoginShouldReturnAnExistingUserFromUsersListAndAuthenticateThisUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bdd-exercice-1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="METHOD_NAME" value="appLoginShouldReturnAnExistingUserFromUsersListAndAuthenticateThisUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.appLoginShouldThrowANullPointerExceptionWhenUserIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bdd-exercice-1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="METHOD_NAME" value="appLoginShouldThrowANullPointerExceptionWhenUserIsNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: SimpleFeature (1)" />
+      <item itemvalue="Cucumber Java.Feature: SimpleFeature" />
+      <item itemvalue="JUnit.AppTest.appLoginShouldThrowANullPointerExceptionWhenUserIsNull" />
+      <item itemvalue="JUnit.AppTest.appLoginShouldReturnAnExistingUserFromUsersListAndAuthenticateThisUser" />
+      <item itemvalue="JUnit.AppTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.AppTest.appLoginShouldThrowANullPointerExceptionWhenUserIsNull" />
+        <item itemvalue="Cucumber Java.Feature: SimpleFeature (1)" />
+        <item itemvalue="JUnit.AppTest.appLoginShouldReturnAnExistingUserFromUsersListAndAuthenticateThisUser" />
+        <item itemvalue="Cucumber Java.Feature: SimpleFeature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="761d4f6d-fc31-411a-b0d1-93a998af2547" name="Changes" comment="commit to test build" />
+      <created>1651497598533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651497598533</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fix build  no2">
+      <created>1651613710631</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1651613710631</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fix NullPointerException sonar issue">
+      <created>1651614326047</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1651614326047</updated>
+    </task>
+    <task id="LOCAL-00027" summary="imporove unit test coverage  with null validation">
+      <created>1651615164508</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1651615164508</updated>
+    </task>
+    <task id="LOCAL-00028" summary="imporove unit test coverage  with null validation&#10;and alosi clean uo build&#10;yamls">
+      <created>1651615301477</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1651615301477</updated>
+    </task>
+    <task id="LOCAL-00029" summary="remove some unused attrbutes">
+      <created>1651615901412</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1651615901412</updated>
+    </task>
+    <task id="LOCAL-00030" summary="revert to master just to se sonarclousds reaction">
+      <created>1651615994772</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1651615994772</updated>
+    </task>
+    <task id="LOCAL-00031" summary="ADD README MD COMMENT">
+      <created>1651616151926</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1651616151926</updated>
+    </task>
+    <task id="LOCAL-00032" summary="revert to main">
+      <created>1651616428832</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1651616428832</updated>
+    </task>
+    <task id="LOCAL-00033" summary="just trigger build">
+      <created>1651616920329</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1651616920329</updated>
+    </task>
+    <task id="LOCAL-00034" summary="update secret">
+      <created>1651617779309</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1651617779309</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update README.md">
+      <created>1651618044033</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1651618044033</updated>
+    </task>
+    <task id="LOCAL-00036" summary="fix build">
+      <created>1651618537077</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1651618537077</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fix build last time">
+      <created>1651619056001</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1651619056001</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix build last time">
+      <created>1651619094861</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1651619094861</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fix build last time 2">
+      <created>1651619162511</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1651619162511</updated>
+    </task>
+    <task id="LOCAL-00040" summary="uodate yaml">
+      <created>1651671686285</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1651671686285</updated>
+    </task>
+    <task id="LOCAL-00041" summary="update yaml">
+      <created>1651671780896</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1651671780896</updated>
+    </task>
+    <task id="LOCAL-00042" summary="update yaml 3">
+      <created>1651671867587</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1651671867587</updated>
+    </task>
+    <task id="LOCAL-00043" summary="switch to ubuntu in yaml">
+      <created>1651672198204</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1651672198204</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fix yaml">
+      <created>1651672494007</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1651672494007</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fix yaml">
+      <created>1651672643182</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1651672643182</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fix yaml">
+      <created>1651672749467</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1651672749467</updated>
+    </task>
+    <task id="LOCAL-00047" summary="fix yaml">
+      <created>1651674586804</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1651674586804</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fix yaml">
+      <created>1651675019738</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1651675019738</updated>
+    </task>
+    <task id="LOCAL-00049" summary="fix yaml build command">
+      <created>1651675143138</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1651675143138</updated>
+    </task>
+    <task id="LOCAL-00050" summary="fix yaml build command parameter Dsonar.test value">
+      <created>1651675258469</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1651675258469</updated>
+    </task>
+    <task id="LOCAL-00051" summary="fix yaml build command parameter Dsonar.test value 2">
+      <created>1651675355206</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1651675355206</updated>
+    </task>
+    <task id="LOCAL-00052" summary="fix yaml build command parameter Dsonar.test value 3">
+      <created>1651675426003</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1651675426003</updated>
+    </task>
+    <task id="LOCAL-00053" summary="fix yaml build command parameter Dsonar.test value 4">
+      <created>1651675510956</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1651675510956</updated>
+    </task>
+    <task id="LOCAL-00054" summary="fix yaml build command parameter Dsonar.test value 5">
+      <created>1651675618770</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1651675618770</updated>
+    </task>
+    <task id="LOCAL-00055" summary="fix yaml build command parameter Dsonar.test value 6">
+      <created>1651676111272</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1651676111272</updated>
+    </task>
+    <task id="LOCAL-00056" summary="fix yaml build command parameter Dsonar.test value 7">
+      <created>1651676146774</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1651676146774</updated>
+    </task>
+    <task id="LOCAL-00057" summary="fix yaml build command parameter Dsonar.test value 8">
+      <created>1651676424315</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1651676424315</updated>
+    </task>
+    <task id="LOCAL-00058" summary="fix yaml build command parameter Dsonar.test value use mvn run">
+      <created>1651676525278</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1651676525279</updated>
+    </task>
+    <task id="LOCAL-00059" summary="fix yaml build command parameter Dsonar.test value use mvn run jacoco before">
+      <created>1651676826633</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1651676826633</updated>
+    </task>
+    <task id="LOCAL-00060" summary="fix yaml build command parameter Dsonar.test value use mvn run jacoco after">
+      <created>1651677037144</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1651677037144</updated>
+    </task>
+    <task id="LOCAL-00061" summary="fix yaml build command parameter Dsonar.test value use mvn run jacoco before + test">
+      <created>1651677691862</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1651677691862</updated>
+    </task>
+    <task id="LOCAL-00062" summary="merge jacoco and verify steps">
+      <created>1651685199024</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1651685199024</updated>
+    </task>
+    <task id="LOCAL-00063" summary="fix again ci">
+      <created>1651685788840</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1651685788840</updated>
+    </task>
+    <task id="LOCAL-00064" summary="add maven-surefire-report-plugin for junit test reporting">
+      <created>1651692777366</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1651692777366</updated>
+    </task>
+    <task id="LOCAL-00065" summary="add run unit test step">
+      <created>1651692919059</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1651692919059</updated>
+    </task>
+    <task id="LOCAL-00066" summary="add run unit test step ammend">
+      <created>1651693072264</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1651693072264</updated>
+    </task>
+    <task id="LOCAL-00067" summary="revert last commits">
+      <created>1651693185595</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1651693185595</updated>
+    </task>
+    <task id="LOCAL-00068" summary="add comment">
+      <created>1652190129944</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1652190129944</updated>
+    </task>
+    <task id="LOCAL-00069" summary="trigger build">
+      <created>1652369014252</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1652369014254</updated>
+    </task>
+    <task id="LOCAL-00070" summary="add failsafe support and .ignore file">
+      <created>1652453615771</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1652453615771</updated>
+    </task>
+    <task id="LOCAL-00071" summary="clean up User class">
+      <created>1652453902095</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1652453902095</updated>
+    </task>
+    <task id="LOCAL-00072" summary="add comment">
+      <created>1652468782022</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1652468782023</updated>
+    </task>
+    <task id="LOCAL-00073" summary="improve assert thrown">
+      <created>1652469276162</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1652469276162</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="fix yaml build command" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value 2" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value 3" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value 4" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value 5" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value 6" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value 7" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value 8" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value use mvn run" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value use mvn run jacoco before" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value use mvn run jacoco after" />
+    <MESSAGE value="fix yaml build command parameter Dsonar.test value use mvn run jacoco before + test" />
+    <MESSAGE value="merge jacoco and verify steps" />
+    <MESSAGE value="fix again ci" />
+    <MESSAGE value="add maven-surefire-report-plugin for junit test reporting" />
+    <MESSAGE value="add run unit test step" />
+    <MESSAGE value="add run unit test step ammend" />
+    <MESSAGE value="revert last commits" />
+    <MESSAGE value="trigger build" />
+    <MESSAGE value="add failsafe support and .ignore file" />
+    <MESSAGE value="clean up User class" />
+    <MESSAGE value="raise coverage to 100%" />
+    <MESSAGE value="add comment" />
+    <MESSAGE value="improve assert thrown" />
+    <option name="LAST_COMMIT_MESSAGE" value="improve assert thrown" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/cucumber/datatable/7.3.2/datatable-7.3.2.jar!/io/cucumber/datatable/DataTable.class</url>
+          <line>113</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/App.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/AppTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/App.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/it/java/org/example/StepsDefs/ITLoginSteps.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/it/java/org/example/StepsDefs/ITLoginSteps.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/it/java/org/example/StepsDefs/ITLoginSteps.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/App.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/App.java</url>
+          <line>30</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/App.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/App.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/App.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/App.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/AppTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.example.App" memberName="users" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="testUser.toString()" />
+      </configuration>
+      <configuration name="CucumberJavaRunConfigurationType">
+        <watch expression="actual" />
+        <watch expression="users" />
+        <watch expression="dataTable.asList(User.class)" />
+        <watch expression="dataTable" />
+        <watch expression="dataTable.rows(0)" language="JAVA" />
+        <watch expression="dataTable.transpose()" />
+        <watch expression="userRows" language="JAVA" />
+        <watch expression="dataTable.asMaps(String.class, String.class)" />
+        <watch expression="dataTable.asMaps(String.class, String.class).get(0)" />
+        <watch expression="dataTable.asMaps(String.class, String.class).get(0)" language="JAVA" />
+        <watch expression="signUpForms.get(0).get(&quot;username&quot;)" />
+        <watch expression="userStream.findFirst().get()" />
+        <watch expression="userStream" />
+        <watch expression="userStream.toArray()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bdd_exercice_1$AppTest_promoteToAdminRoleShouldThrowANullPointerExceptionWhenUserIsNull.ic" NAME="AppTest.promoteToAdminRoleShouldThrowANullPointerExceptionWhenUserIsNull Coverage Results" MODIFIED="1652455936919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bdd_exercice_1$AppTest_appCreateNewshouldAddNewUserToItsUsersList.ic" NAME="AppTest.appCreateNewshouldAddNewUserToItsUsersList Coverage Results" MODIFIED="1651581040708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bdd_exercice_1$AppTest.ic" NAME="AppTest Coverage Results" MODIFIED="1652469389067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
